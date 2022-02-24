@@ -24,6 +24,8 @@ Installation
 Either download the whole repo as a [zip file] or just download the bash script using:
 
 ```sh
+mkdir tasmota
+cd tasmota
 curl -O https://raw.githubusercontent.com/njh/sonoff-ota-flash-cli/main/sonoff-ota-flash.sh
 chmod a+rx sonoff-ota-flash.sh
 ```
